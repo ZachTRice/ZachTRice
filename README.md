@@ -1,1 +1,1 @@
-## ZachTRice :octocat:
+:octocat:
